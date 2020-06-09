@@ -85,10 +85,10 @@ author:
   bio              : "Passionate Coder. Data Science, Deep Learning, Computer Vision Enthusiast."
   location         : "Bengaluru"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "monishaashwath@gmail.com"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-#   orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "in/monishaashwath/"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/9294674/monisha-ashwath"
+  stackoverflow    : "9294674/monisha-ashwath"
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/monisha_ashwath"
+  twitter          : "monisha_ashwath"
   vine             :
   weibo            :
   xing             :
